@@ -1,4 +1,4 @@
-﻿namespace console_api;
+﻿namespace ConsoleApi;
 
 public interface IAppLogger<T>
 {

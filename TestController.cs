@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace console_api;
+namespace ConsoleApi;
 
 [Route("/")]
 public class TestController : ControllerBase

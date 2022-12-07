@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace console_api;
+namespace ConsoleApi;
 
 public class LoggerAdapter<T> : IAppLogger<T>
 {

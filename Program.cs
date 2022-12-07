@@ -1,6 +1,6 @@
 ﻿// enter http://localhost:5654/ in browser to test it out 
 
-using console_api;
+using ConsoleApi;
 
 var apiService = new ApiService(5654);
 

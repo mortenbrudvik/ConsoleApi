@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace console_api;
+namespace ConsoleApi;
 
 public class ApiService : IAsyncDisposable
 {
